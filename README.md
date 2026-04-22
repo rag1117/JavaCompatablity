@@ -15,7 +15,7 @@ Follow these instructions to compile and play the game:
 1. **Open your terminal or command prompt.**
 2. **Navigate to the game directory.** Path where the game files are located:
    ```bash
-   cd "/Users/rag.lonlyfans/Swing Application"
+   cd "/Users/"your username"/Swing Application"
    ```
 3. **Compile the Java files.** This will convert the `.java` files into executable `.class` files:
    ```bash
